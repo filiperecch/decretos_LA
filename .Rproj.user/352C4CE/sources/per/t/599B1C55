@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562965535644.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1960291253",
+    "id" : "599B1C55",
+    "lastKnownWriteTime" : 1560841002,
+    "last_content_update" : 1560841002,
+    "path" : "G:/My Drive/Stanford/Research/Parterships/Magna Inacio/Decretos/decretos_LA/munge/STM_DD_paper.R",
+    "project_path" : "munge/STM_DD_paper.R",
+    "properties" : {
+        "cursorPosition" : "31,32",
+        "scrollLine" : "20"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

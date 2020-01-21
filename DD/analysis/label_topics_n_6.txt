@@ -1,0 +1,30 @@
+Topic 1 Top Words:
+ 	 Highest Prob: decreto, providência, art, altera, dispõ, comissão, nacion 
+ 	 FREX: decreto, art, altera, comissão, cargo, aprova, regulamenta 
+ 	 Lift: direção, extingu, instituído, medalha, previsto, proposta, -cumulativa 
+ 	 Score: cargo, comissão, art, funçõ, decreto, altera, dispõ 
+Topic 2 Top Words:
+ 	 Highest Prob: serviço, concessão, radiodifusão, explorar, ltda, sonora, onda 
+ 	 FREX: serviço, concessão, radiodifusão, explorar, ltda, sonora, onda 
+ 	 Lift: acerp, afrmm, anónima, arquidiocesana, assinatura, assistent, avelar 
+ 	 Score: radiodifusão, explorar, ltda, onda, concessão, sonora, média 
+Topic 3 Top Words:
+ 	 Highest Prob: república, brasil, dispõ, governo, acordo, federativa, execução 
+ 	 FREX: brasil, acordo, federativa, execução, promulga, protocolo, adicion 
+ 	 Lift: -nort, afastamento, airway, alfandegado, alto-mar, ancara, antártida 
+ 	 Score: república, acordo, federativa, promulga, dispõ, brasil, protocolo 
+Topic 4 Top Words:
+ 	 Highest Prob: orçamento, crédito, união, abr, suplementar, vigent, reforço 
+ 	 FREX: orçamento, crédito, união, abr, suplementar, vigent, reforço 
+ 	 Lift: senado, dotaçõ, vigent, abastecimento, abono, abr, abriu 
+ 	 Score: orçamento, abr, suplementar, vigent, reforço, dotaçõ, consignada 
+Topic 5 Top Words:
+ 	 Highest Prob: menciona, pública, autoriza, utilidad, declara, fin, desapropriação 
+ 	 FREX: autoriza, utilidad, desapropriação, terra, administrativa, curso, companhia 
+ 	 Lift: abaixo, aceitação, acopiara, adquirir, aforamento, aid, alberto 
+ 	 Score: utilidad, desapropriação, declara, terra, autoriza, localizado, administrativa 
+Topic 6 Top Words:
+ 	 Highest Prob: social, fin, providência, interess, declara, reforma, agrária 
+ 	 FREX: interess, reforma, agrária, imóvel, situado, rural, denominado 
+ 	 Lift: prioritária, “almirant, “cajá”, “engenho, “estância, “grajaú”, “granja 
+ 	 Score: situado, imóvel, agrária, reforma, declara, denominado, rural 

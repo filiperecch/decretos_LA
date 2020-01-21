@@ -1,0 +1,35 @@
+Topic 1 Top Words:
+ 	 Highest Prob: social, reforma, interess, agrária, providência, fin, município 
+ 	 FREX: reforma, agrária, situado, rural, denominado, gleba, lote 
+ 	 Lift: “engenho, “olho, “sering, adélia, adustina, agostinha, alagoinha 
+ 	 Score: situado, imóvel, agrária, declara, interess, denominado, rural 
+Topic 2 Top Words:
+ 	 Highest Prob: república, brasil, dispõ, governo, acordo, federativa, execução 
+ 	 FREX: acordo, federativa, execução, promulga, protocolo, adicion, argentina 
+ 	 Lift: acessório, alto-mar, ancara, antártida, aparelho, apex-brasil, apropriação 
+ 	 Score: república, acordo, federativa, promulga, governo, dispõ, protocolo 
+Topic 3 Top Words:
+ 	 Highest Prob: decreto, providência, dispõ, art, altera, nacion, comissão 
+ 	 FREX: decreto, art, altera, comissão, cargo, aprova, regulamenta 
+ 	 Lift: classificação, comando, delega, direção, disposiçõ, instituído, medalha 
+ 	 Score: cargo, comissão, dispõ, altera, aprova, funçõ, regulamenta 
+Topic 4 Top Words:
+ 	 Highest Prob: declara, fin, menciona, pública, utilidad, imóvei, desapropriação 
+ 	 FREX: utilidad, imóvei, desapropriação, rurai, localizado, concessionária, servidão 
+ 	 Lift: abaixo, acopiara, adquirir, araquari, benfeitoria, bioma, br-rj 
+ 	 Score: declara, utilidad, desapropriação, imóvei, fin, menciona, localizado 
+Topic 5 Top Words:
+ 	 Highest Prob: orçamento, crédito, união, abr, suplementar, vigent, reforço 
+ 	 FREX: orçamento, crédito, união, abr, suplementar, vigent, reforço 
+ 	 Lift: senado, dotaçõ, abr, abriu, adicionai, cientifico, condicionada 
+ 	 Score: orçamento, abr, suplementar, vigent, reforço, crédito, dotaçõ 
+Topic 6 Top Words:
+ 	 Highest Prob: empresa, providência, energia, elétrica, capit, social, companhia 
+ 	 FREX: elétrica, capit, transmissão, aumento, exploração, participação, banco 
+ 	 Lift: aditamento, administradora, adolescência, adquirida, aktiengesellschaft, alumínio, american 
+ 	 Score: capit, transmissão, elétrica, energia, aumento, reconhec, estrangeira 
+Topic 7 Top Words:
+ 	 Highest Prob: serviço, concessão, radiodifusão, cidad, explorar, ltda, sonora 
+ 	 FREX: radiodifusão, explorar, ltda, sonora, onda, renova, média 
+ 	 Lift: “almirant, aceitação, acerp, adamantina, aid, airway, alberto 
+ 	 Score: radiodifusão, explorar, ltda, onda, sonora, média, rádio 

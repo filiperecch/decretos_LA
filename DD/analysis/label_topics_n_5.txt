@@ -1,0 +1,25 @@
+Topic 1 Top Words:
+ 	 Highest Prob: decreto, dispõ, nacion, providência, art, altera, lei 
+ 	 FREX: art, regulamenta, redação, institui, programa, estabelec, produto 
+ 	 Lift: -cumulativa, -incidência, -processado, “almirant, “d”, acessório, acidentário 
+ 	 Score: dispõ, art, altera, regulamenta, decreto, lei, produto 
+Topic 2 Top Words:
+ 	 Highest Prob: serviço, concessão, radiodifusão, cidad, explorar, autoriza, ltda 
+ 	 FREX: serviço, concessão, radiodifusão, cidad, explorar, autoriza, ltda 
+ 	 Lift: acerp, adolescência, adquirir, aid, airway, aktiengesellschaft, alberto 
+ 	 Score: radiodifusão, explorar, ltda, onda, sonora, média, concessão 
+Topic 3 Top Words:
+ 	 Highest Prob: república, brasil, governo, comissão, cargo, acordo, dispõ 
+ 	 FREX: república, comissão, cargo, acordo, aprova, federativa, promulga 
+ 	 Lift: aeb, aeroespaci, ancara, antártida, apex-brasil, argelina, ata 
+ 	 Score: acordo, república, cargo, federativa, funçõ, promulga, comissão 
+Topic 4 Top Words:
+ 	 Highest Prob: menciona, declara, pública, fin, utilidad, município, imóvei 
+ 	 FREX: pública, utilidad, imóvei, desapropriação, terra, administrativa, elétrica 
+ 	 Lift: -nort, benfeitoria, luz, paraibuna, purus, abrigo, altamira 
+ 	 Score: utilidad, desapropriação, declara, terra, imóvei, pública, fin 
+Topic 5 Top Words:
+ 	 Highest Prob: social, orçamento, interess, reforma, agrária, fin, crédito 
+ 	 FREX: orçamento, interess, reforma, agrária, imóvel, situado, abr 
+ 	 Lift: prioritária, senado, agrária, denominado, dotaçõ, orçamento, suplementar 
+ 	 Score: situado, abr, imóvel, orçamento, agrária, reforço, reforma 
